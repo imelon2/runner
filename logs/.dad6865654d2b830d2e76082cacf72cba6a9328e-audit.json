@@ -9,6 +9,11 @@
             "date": 1696567622633,
             "name": "/Users/choi/Documents/workspace/aws/runner/logs/2023-10-06.log",
             "hash": "45ff146775d25bfe5c39f743898ca4f5057f815fd8a8ce5a72fec48edb3fb961"
+        },
+        {
+            "date": 1696604568809,
+            "name": "/Users/choi/Documents/workspace/aws/runner/logs/2023-10-07.log",
+            "hash": "30188405c3136edb7c4bd9a2a846b9794929210eb764279843207ad46292a73d"
         }
     ],
     "hashType": "sha256"
