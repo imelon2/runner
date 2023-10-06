@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/choi/Documents/workspace/aws/runner/logs/.dad6865654d2b830d2e76082cacf72cba6a9328e-audit.json",
+    "files": [
+        {
+            "date": 1696567622633,
+            "name": "/Users/choi/Documents/workspace/aws/runner/logs/2023-10-06.log",
+            "hash": "45ff146775d25bfe5c39f743898ca4f5057f815fd8a8ce5a72fec48edb3fb961"
+        }
+    ],
+    "hashType": "sha256"
+}
