@@ -2,7 +2,7 @@
   "ts-node": {"esm" : true},
   "compilerOptions": {
     "target": "ES6",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    "module": "ES2015", 
+    "module": "CommonJS", 
     "moduleResolution": "Node",                           /* Specify what module code is generated. */                     /* Conditions to set in addition to the resolver-specific defaults when resolving imports. */
     "resolveJsonModule": true,                        /* Enable importing .json files. */
     "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
